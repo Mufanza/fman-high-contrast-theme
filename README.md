@@ -1,7 +1,7 @@
 # Light high-contrast (E-Ink) theme for [fman](https://fman.io/)
 
-> A light, high-contrast theme for [fman](https://fman.io/).
-> Made to look and feel good when working with E-Ink monitors [Dasung Paperlike](http://www.dasungtech.com/)
+A light, high-contrast theme for [fman](https://fman.io/).
+Made to look and feel good when working with E-Ink monitors (such as [Dasung Paperlike](http://www.dasungtech.com/))
 
 ![Screenshot](./Screenshot.png)
 
