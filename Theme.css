@@ -1,0 +1,43 @@
+* {
+	font-size: 12pt;
+}
+
+th {
+	font-size: 10pt;
+}
+
+.locationbar {
+	padding: 0.25ex;
+	border-bottom: 1px solid black;
+}
+
+.statusbar {
+	font-size: 8pt;
+}
+
+.quicksearch-query, .quicksearch-item-title {
+	font-size: 12pt;
+}
+
+.quicksearch-item {
+	padding: 0px;
+	border-top: 0px solid white;
+	border-bottom: 0px solid white;
+}
+
+.quicksearch-item-title {
+	color: #888888;
+}
+
+.quicksearch-item-title-highlight {
+	color: black;
+}
+
+.quicksearch-item-hint {
+	font-size: 8pt;
+	color: black;
+}
+
+.quicksearch-item-description {
+	color: black;
+}
