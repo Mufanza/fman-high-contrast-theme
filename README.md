@@ -5,9 +5,15 @@ Made to look and feel good when working with E-Ink monitors (such as [Dasung Pap
 
 ![Screenshot](./Screenshot.png)
 
-## Install
+## Install option 1 (recommended)
 
-You will need to manually replace the files as follows:
+Install [FmanAlternativeColors plugin](https://github.com/strayge/FmanAlternativeColors)
+
+This theme already comes bundled with it.
+
+## Install Option 2: 
+
+Download this repo, then manually place (or replace) these two files in your fman installation:
 
 **styles.qss** goes in _C:\Users\your_username\AppData\Local\fman\Versions\your_version_
 
