@@ -19,7 +19,7 @@ Download this repo, then manually place (or replace) these two files in your fma
 
 **theme.css** goes in _C:\Users\your_username\AppData\Local\fman\Versions\your_version\Plugins\Core_
 
-If fman is updated, you will need to change the code again ¯\\\_(ツ)\_/¯
+If fman is updated, you will need to (re)place these files again ¯\\\_(ツ)\_/¯
 
 ## License
 
